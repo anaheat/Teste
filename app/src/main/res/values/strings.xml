@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Full Class</string>
+    <string name="hello_world">Bem vindo ao app Full Class! =)</string>
+    <string name="action_settings">Configurações</string>
+</resources>
